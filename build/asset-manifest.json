@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sidebar-react/static/css/main.1109858f.chunk.css",
+    "main.js": "/sidebar-react/static/js/main.131e57d3.chunk.js",
+    "main.js.map": "/sidebar-react/static/js/main.131e57d3.chunk.js.map",
+    "runtime-main.js": "/sidebar-react/static/js/runtime-main.423fb0bf.js",
+    "runtime-main.js.map": "/sidebar-react/static/js/runtime-main.423fb0bf.js.map",
+    "static/js/2.6909725c.chunk.js": "/sidebar-react/static/js/2.6909725c.chunk.js",
+    "static/js/2.6909725c.chunk.js.map": "/sidebar-react/static/js/2.6909725c.chunk.js.map",
+    "index.html": "/sidebar-react/index.html",
+    "precache-manifest.c9fd43462fe920ffce6dd00e157bc18d.js": "/sidebar-react/precache-manifest.c9fd43462fe920ffce6dd00e157bc18d.js",
+    "service-worker.js": "/sidebar-react/service-worker.js",
+    "static/css/main.1109858f.chunk.css.map": "/sidebar-react/static/css/main.1109858f.chunk.css.map",
+    "static/js/2.6909725c.chunk.js.LICENSE.txt": "/sidebar-react/static/js/2.6909725c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.423fb0bf.js",
+    "static/js/2.6909725c.chunk.js",
+    "static/css/main.1109858f.chunk.css",
+    "static/js/main.131e57d3.chunk.js"
+  ]
+}
